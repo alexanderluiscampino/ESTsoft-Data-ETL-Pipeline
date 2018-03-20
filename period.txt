@@ -1,0 +1,4 @@
+## Input here the initial and final date to fetch the data
+## 
+InitialDate: 20180307
+FinalDate: 20180313

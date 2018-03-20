@@ -1,0 +1,13 @@
+## Authentication Data
+## Keep this file private and unaccessible
+## Leave at least one empty line between different authentication entries
+
+*Billing:
+username: alexcampino
+password: PIJcig243
+
+
+
+*CRM:
+userID : manager
+password: zkqkfxptmxm
