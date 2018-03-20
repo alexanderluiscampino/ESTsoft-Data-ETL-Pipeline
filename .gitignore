@@ -1,3 +1,10 @@
+# ignore a single file
+authenticate.txt
+urlBuilder.py
+YearsDataReport.py
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
