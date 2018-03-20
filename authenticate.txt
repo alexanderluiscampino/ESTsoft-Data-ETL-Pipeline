@@ -3,11 +3,11 @@
 ## Leave at least one empty line between different authentication entries
 
 *Billing:
-username: alexcampino
-password: PIJcig243
+username: 
+password: 
 
 
 
 *CRM:
-userID : manager
-password: zkqkfxptmxm
+userID : 
+password: 
